@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+SwipeDismiss in SwipeDismiss, no dependencies
+SwipeDismiss in SwipeDismiss, no dependencies
